@@ -1,0 +1,13 @@
+{
+    "31337": {
+        "BlockDaddy": {
+            "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+        }
+    },
+    "11155111": {
+        "BlockDaddy": {
+            "address": "0x244BFfA161Ed0Bf270d36fc92Ab7AA44684288fC"
+        },
+        "explorerURL": "https://sepolia.infura.io/v3/"
+    }
+}
